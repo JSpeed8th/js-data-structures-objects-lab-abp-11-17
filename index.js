@@ -1,5 +1,5 @@
 const driver = {
-  name: 'Sam';
+  name: 'Sam'
 }
 
 function updateDriverWithKeyAndValue(object, key, value) {
