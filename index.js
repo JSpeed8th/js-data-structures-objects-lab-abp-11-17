@@ -1,1 +1,1 @@
-const driver = name{ object: 'sam'};
+const driver = name{ driver: 'object'};
